@@ -1,0 +1,6 @@
+F:\IVS\C#\Projects\1\PrimeCheck\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+F:\IVS\C#\Projects\1\PrimeCheck\PrimeCheck\bin\Debug\PrimeCheck.exe
+F:\IVS\C#\Projects\1\PrimeCheck\PrimeCheck\bin\Debug\PrimeCheck.pdb
+F:\IVS\C#\Projects\1\PrimeCheck\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache
+F:\IVS\C#\Projects\1\PrimeCheck\PrimeCheck\obj\Debug\PrimeCheck.exe
+F:\IVS\C#\Projects\1\PrimeCheck\PrimeCheck\obj\Debug\PrimeCheck.pdb
