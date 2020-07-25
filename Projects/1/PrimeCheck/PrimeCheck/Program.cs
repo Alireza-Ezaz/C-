@@ -21,6 +21,7 @@ namespace PrimeCheck
                     if (inp.Equals("a"))
                     {
                         Console.WriteLine("Programm will finish when remaining camputations are done.");
+                        return;
                         
                     }
                     var input = Convert.ToInt64(inp);
